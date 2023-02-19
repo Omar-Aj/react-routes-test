@@ -1,0 +1,4 @@
+.pagination-links {
+  display: flex;
+  gap: 8px;
+}
